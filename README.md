@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -66,7 +64,5 @@
     <td>8592 7618</td>
     <td><a href="https://www.google.com">buscar</a></td>
 </tr>
-    
-    
 </body>
 </html>
